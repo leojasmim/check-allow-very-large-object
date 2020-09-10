@@ -1,0 +1,19 @@
+Time;Plataform;GCAllowVeryLargeObject;Message;AllocatedMemory (MB);CacheMemoryLimit (MB)
+10/09/2020 18:53:46;x86;true;WithArray...;0,349;
+10/09/2020 18:53:46;x86;true;WithArray 1GB;1024,380;
+10/09/2020 18:53:46;x86;true;System.OutOfMemoryException;1024,388;
+10/09/2020 18:53:46;x86;true;WithMemoryCache...;1024,458;800,000
+10/09/2020 18:53:46;x86;true;WithMemoryCache - Iteração:1;100,187;800,000
+10/09/2020 18:53:46;x86;true;WithMemoryCache - Iteração:2;200,187;800,000
+10/09/2020 18:53:46;x86;true;WithMemoryCache - Iteração:3;300,200;800,000
+10/09/2020 18:53:46;x86;true;WithMemoryCache - Iteração:4;400,208;800,000
+10/09/2020 18:53:46;x86;true;WithMemoryCache - Iteração:5;500,224;800,000
+10/09/2020 18:53:46;x86;true;WithMemoryCache - Iteração:6;600,187;800,000
+10/09/2020 18:53:46;x86;true;WithMemoryCache - Iteração:7;700,201;800,000
+10/09/2020 18:53:46;x86;true;WithMemoryCache - Iteração:8;800,208;800,000
+10/09/2020 18:53:46;x86;true;WithMemoryCache - Iteração:9;900,221;800,000
+10/09/2020 18:53:46;x86;true;WithMemoryCache - Iteração:10;1000,229;800,000
+10/09/2020 18:53:46;x86;true;WithMemoryCache - Iteração:11;1100,245;800,000
+10/09/2020 18:53:46;x86;true;WithMemoryCache - Iteração:12;1200,252;800,000
+10/09/2020 18:53:46;x86;true;WithMemoryCache - Iteração:13;1300,260;800,000
+10/09/2020 18:53:46;x86;true;System.OutOfMemoryException;1300,197;
